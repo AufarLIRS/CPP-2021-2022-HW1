@@ -1,4 +1,4 @@
-void task1()
+int task1()
 {
 }
 
